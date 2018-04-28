@@ -1,0 +1,967 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2017-11-08 11:49:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-04-11 23:34-0300\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-portfolio-pro.php:71
+msgid "Couldn't load BPCP_Plugin_Check class at:<br/>%s"
+msgstr "No se puede cargar la clase BPCP_Plugin_Check en:<br/>%s"
+
+#: bp-portfolio-pro.php:77 bp-portfolio-pro.php:128
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Error Fatal:</h1><hr/><pre>%s</pre>"
+
+#: bp-portfolio-pro.php:122
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "No se pudo cargar la clase principal en:<br/>%s"
+
+#: bp-portfolio-pro.php:166
+msgid "%VIEW_COUNT%"
+msgstr "%VIEW_COUNT%"
+
+#: bp-portfolio-pro.php:167
+msgid "views"
+msgstr "vistos"
+
+#: includes/admin/views/pages.php:10
+msgid "Works In Progress (WIP)"
+msgstr "Publicaciones en Desarrollo (Public. en Desarrollo)"
+
+#: includes/admin/views/pages.php:14 includes/admin/views/pages.php:31
+#: includes/admin/views/pages.php:51
+msgid "- None -"
+msgstr "- Ninguno -"
+
+#: includes/admin/views/pages.php:17 includes/admin/views/pages.php:34
+#: includes/admin/views/pages.php:54
+msgid "New Page"
+msgstr "Nueva Página"
+
+#: includes/admin/views/pages.php:19 includes/admin/views/pages.php:36
+#: includes/admin/views/pages.php:56 includes/main-class.php:319
+msgid "View"
+msgstr "Visto"
+
+#: includes/admin/views/pages.php:21
+msgid ""
+"Use a WordPress page to display all Works In Progress uploaded by all users. "
+"(Optional)"
+msgstr ""
+"Use una página de WordPress para mostrar todos las Publicaciones en "
+"Desarrollo cargadas por todos los usuarios. (Opcional)"
+
+#: includes/admin/views/pages.php:27 templates/wip/index.php:16
+msgid "Add WIP"
+msgstr "Agregar Public. en Desarrollo"
+
+#: includes/admin/views/pages.php:38
+msgid ""
+"Use a WordPress page to display Add WIP form. (Optional)<br /> If not "
+"selected, Add WIP form will be displayed at <code>/members/username/"
+"portfolio/wip</code>."
+msgstr ""
+"Use una página de WordPress para mostrar Agregar formulario Public. en "
+"Desarrollo. (Opcional)<br /> Si no se selecciona, se mostrará el formulario "
+"Agregar Public. en Desarrollo en <code>/members/username/portfolio/wip</"
+"code>."
+
+#: includes/admin/views/pages.php:47 includes/bpcp-pro-component.php:87
+#: includes/bpcp-pro-component.php:89 includes/bpcp-pro-functions.php:32
+#: includes/bpcp-pro-functions.php:519 includes/bpcp-pro-functions.php:625
+#: includes/bpcp-pro-widgets.php:497 templates/collections/following.php:11
+#: templates/collections/index.php:11
+msgid "Collections"
+msgstr "Cursos"
+
+#: includes/admin/views/pages.php:58
+msgid ""
+"Use a WordPress page to display all Collections uploaded by all users. "
+"(Optional)"
+msgstr ""
+"Use una página de WordPress para mostrar todos los Cursos subidos por todos "
+"los usuarios. (Opcional)"
+
+#: includes/admin/views/settings_component.php:12
+msgid ""
+"<b>Works In Progress (WIP)</b> &mdash; Let users share and discuss revisions "
+"on incomplete work"
+msgstr ""
+"<b>Publicaciones en Desarrollo (Public. en Desarrollo) </b> &mdash; Permita "
+"que los usuarios compartan y analicen las revisiones sobre el trabajo "
+"incompleto"
+
+#: includes/admin/views/settings_component.php:26
+msgid ""
+"<b>Collections</b> &mdash; Let users share collections of their favorite "
+"Projects from the site"
+msgstr ""
+"<b>Cursos</b> &mash; Permita que los usuarios compartan Cursos de sus "
+"Publicaciones favoritas del sitio"
+
+#: includes/admin/views/settings_misc.php:13
+msgid "WIP Comments sync"
+msgstr "Sincronización de comentarios de Public. en Desarrollo"
+
+#: includes/admin/views/settings_misc.php:16
+msgid "Allow WIP activity stream commenting to sync with WIP posts"
+msgstr ""
+"Permitir que los comentarios de la secuencia de actividad de Public. en "
+"Desarrollo se sincronicen con las publicaciones de Public. en Desarrollo"
+
+#: includes/admin/views/settings_misc.php:17
+msgid ""
+"Make sure to activate \"Site Tracking\" component in Settings &gt; "
+"BuddyPress, and also check the option \"Allow activity stream commenting on "
+"blog and forum posts\""
+msgstr ""
+"Asegúrese de activar el componente \"Seguimiento del sitio\" en "
+"Configuración & gt; BuddyPress, y también marque la opción \"Permitir que la "
+"secuencia de actividad comente en publicaciones de blogs y foros\""
+
+#: includes/admin/views/settings_misc.php:30
+msgid "Project & WIP views count"
+msgstr "La Publicación y las vistas de Public. en Desarrollo cuentan"
+
+#: includes/admin/views/settings_misc.php:33
+msgid ""
+"Display total view counts, in Project/WIP list and single Project/WIP page"
+msgstr ""
+"Visualizar recuentos de vistas totales, en la lista Publicación / Public. en "
+"Desarrollo y en la página única Publicación / Public. en Desarrollo"
+
+#: includes/admin.php:139 includes/admin.php:164
+#: templates/collections/add_collections.php:17
+#: templates/collections/add_collections_lists.php:21
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: includes/admin.php:143 includes/admin.php:168
+#: templates/collections/add_collections.php:22
+#: templates/collections/add_collections_lists.php:26
+#: templates/project/project_settings.php:28 templates/wip/wip_content.php:89
+msgid "Everyone"
+msgstr "Cualquiera"
+
+#: includes/admin.php:144 includes/admin.php:169
+#: templates/collections/add_collections.php:23
+#: templates/collections/add_collections_lists.php:27
+#: templates/project/project_settings.php:29 templates/wip/wip_content.php:90
+msgid "Only Me"
+msgstr "Sólo yo"
+
+#: includes/admin.php:145 includes/admin.php:170
+#: templates/collections/add_collections.php:24
+#: templates/collections/add_collections_lists.php:28
+#: templates/project/project_settings.php:30 templates/wip/wip_content.php:91
+msgid "All Members"
+msgstr "Todos los Miembros"
+
+#: includes/admin.php:248
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin.php:282
+msgid "BP Portfolio Pro"
+msgstr "BP Portfolio Pro"
+
+#: includes/admin.php:288
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: includes/bpcp-pro-actions.php:282 includes/bpcp-pro-actions.php:405
+msgid "Some error happen while creating post. Please try again."
+msgstr "Se produce algún error al crear una publicación. Inténtalo de nuevo."
+
+#: includes/bpcp-pro-actions.php:285
+msgid "Please insert wip title"
+msgstr "Por favor inserte el título de la Public. en Desarrollo"
+
+#: includes/bpcp-pro-actions.php:326
+msgid "wip deleted successfully"
+msgstr "Public. en Desarrollo eliminado satisfactoriamente"
+
+#: includes/bpcp-pro-actions.php:362
+msgid "Collection deleted successfully"
+msgstr "Curso borrado con éxito"
+
+#: includes/bpcp-pro-actions.php:403
+msgid "Collection saved successfully!"
+msgstr "¡Curso guardado con éxito!"
+
+#: includes/bpcp-pro-actions.php:409
+msgid "Please insert collection title & description"
+msgstr "Por favor inserte el título y la descripción del Curso"
+
+#: includes/bpcp-pro-actions.php:438
+msgid "%s appreciated the %s %s"
+msgstr "%s valoraste el %s %s"
+
+#: includes/bpcp-pro-ajax.php:68 includes/bpcp-pro-ajax.php:147
+#: includes/bpcp-pro-functions.php:953 includes/bpcp-pro-functions.php:1055
+#: includes/bpcp-pro-functions.php:1145 templates/collections/following.php:67
+#: templates/collections/index.php:65 templates/project/index.php:103
+#: templates/single-bb_collection.php:76 templates/wip/index.php:96
+msgid "by"
+msgstr "por"
+
+#: includes/bpcp-pro-ajax.php:283 includes/bpcp-pro-ajax.php:308
+msgid "Something wrong. Please try again"
+msgstr "Algo salió mal. Inténtalo de nuevo"
+
+#: includes/bpcp-pro-ajax.php:294 includes/bpcp-pro-ajax.php:315
+msgid "Caption Updated!"
+msgstr "¡Subtítulo actualizado!"
+
+#: includes/bpcp-pro-ajax.php:318
+msgid "Already saved!"
+msgstr "¡Ya guardado!"
+
+#: includes/bpcp-pro-ajax.php:363
+msgid "Project added to collection(s) successfully!"
+msgstr "¡Publicación agregada al (los) Curso (s) exitosamente!"
+
+#: includes/bpcp-pro-ajax.php:399
+msgid "Collection added successfully! "
+msgstr "¡Curso agregado con éxito!"
+
+#: includes/bpcp-pro-ajax.php:401
+msgid "Failed! "
+msgstr "¡Ha fallado! "
+
+#: includes/bpcp-pro-ajax.php:460
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/bpcp-pro-ajax.php:516
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: includes/bpcp-pro-ajax.php:516
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: includes/bpcp-pro-ajax.php:531
+msgid "Post author"
+msgstr "Publicación del autor"
+
+#. translators: 1: date, 2: time
+#: includes/bpcp-pro-ajax.php:537
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: includes/bpcp-pro-ajax.php:543
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: includes/bpcp-pro-component.php:64 includes/bpcp-pro-component.php:66
+msgid "WIPs"
+msgstr "Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:65 includes/bpcp-pro-component.php:68
+#: includes/bpcp-pro-functions.php:12 includes/bpcp-pro-functions.php:515
+msgid "WIP"
+msgstr "Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:67
+msgid "All WIPs"
+msgstr "Todas las Public. en Desarrollos"
+
+#: includes/bpcp-pro-component.php:69 includes/bpcp-pro-component.php:70
+msgid "Add New WIP"
+msgstr "Agregar nueva Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:71
+msgid "Edit WIP"
+msgstr "Editar Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:72
+msgid "New WIP"
+msgstr "Nueva Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:73
+msgid "View WIP"
+msgstr "Ver Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:74
+msgid "Search WIPs"
+msgstr "Buscar Public. en Desarrollos"
+
+#: includes/bpcp-pro-component.php:75
+msgid "No WIPs Found"
+msgstr "No se encontraron Public. en Desarrollo"
+
+#: includes/bpcp-pro-component.php:76
+msgid "No WIPs Found in Trash"
+msgstr "No se encontraron Public. en Desarrollo en la Papelera"
+
+#: includes/bpcp-pro-component.php:88 includes/bpcp-pro-component.php:91
+msgid "Collection"
+msgstr "Curso"
+
+#: includes/bpcp-pro-component.php:90
+msgid "All Collections"
+msgstr "Todos los Cursos"
+
+#: includes/bpcp-pro-component.php:92 includes/bpcp-pro-component.php:93
+#: templates/collections/add_collections.php:42
+#: templates/collections/add_collections_lists.php:48
+msgid "Add New Collection"
+msgstr "Agregar Nuevo Curso"
+
+#: includes/bpcp-pro-component.php:94
+msgid "Edit Collection"
+msgstr "Editar Curso"
+
+#: includes/bpcp-pro-component.php:95
+#: templates/collections/add_collections.php:4
+#: templates/collections/add_collections_lists.php:7
+msgid "New Collection"
+msgstr "Nuevo Curso"
+
+#: includes/bpcp-pro-component.php:96
+msgid "View Collection"
+msgstr "Ver Curso"
+
+#: includes/bpcp-pro-component.php:97
+msgid "Search Collections"
+msgstr "Buscar Cursos"
+
+#: includes/bpcp-pro-component.php:98
+msgid "No Collections Found"
+msgstr "No se encontraron Cursos"
+
+#: includes/bpcp-pro-component.php:99
+msgid "No Collections Found in Trash"
+msgstr "No se encontraron Cursos en la Papelera"
+
+#: includes/bpcp-pro-component.php:164 templates/project/add_project.php:32
+#: templates/wip/wip_content.php:37
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/bpcp-pro-component.php:165
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: includes/bpcp-pro-filters.php:143
+msgid "%s uploaded a revision to a work in progress, %s"
+msgstr "%s subió una revisión a una Publicación en Desarrollo, %s"
+
+#: includes/bpcp-pro-filters.php:145
+msgid "%s uploaded a new work in progress, %s"
+msgstr "%s ha subido una nueva Publicación en Desarrollo, %s"
+
+#: includes/bpcp-pro-filters.php:186
+msgid "Commented a work in progress"
+msgstr "Comentó un trabajo en progreso"
+
+#: includes/bpcp-pro-filters.php:187
+msgid "Work in Progress Comments"
+msgstr "Comentarios de la Publicación en Desarrollo."
+
+#: includes/bpcp-pro-filters.php:188
+msgid "%1$s commented on the <a href=\"%2$s\">work in progress</a>"
+msgstr "%1$s comentó sobre el <a href=\"%2$s\">Publicación en Desarrollo</a>"
+
+#: includes/bpcp-pro-filters.php:189
+msgid ""
+"%1$s commented on the <a href=\"%2$s\">work in progress</a>, on the site %3$s"
+msgstr ""
+"%1$s comentó el <a href=\"%2$s\">Publicación en Desarrollo</a>, en el sitio "
+"%3$s"
+
+#: includes/bpcp-pro-functions.php:20
+msgid "wip"
+msgstr "Public. en Desarrollo"
+
+#: includes/bpcp-pro-functions.php:40
+msgid "collections"
+msgstr "Cursos"
+
+#: includes/bpcp-pro-functions.php:266
+msgid "Edit Revision"
+msgstr "Editar Revisión"
+
+#: includes/bpcp-pro-functions.php:268
+msgid "Edit Work in Progress"
+msgstr "Editar Publicación en Desarrollo"
+
+#: includes/bpcp-pro-functions.php:270 templates/single-bb_wip.php:18
+msgid "Add Revision"
+msgstr "Agregar Revisión"
+
+#: includes/bpcp-pro-functions.php:272
+msgid "Add Work in Progress"
+msgstr "Agregar Publicación en Desarrollo"
+
+#: includes/bpcp-pro-functions.php:279
+msgid "Update Revision and Continue"
+msgstr "Actualizar Revisión y Continuar"
+
+#: includes/bpcp-pro-functions.php:281
+msgid "Update WIP and Continue"
+msgstr "Actualizar Public. en Desarrollo y Continuar"
+
+#: includes/bpcp-pro-functions.php:283 templates/wip/add_wip.php:23
+msgid "Add Revision and Continue"
+msgstr "Agregar Revisión y Continuar"
+
+#: includes/bpcp-pro-functions.php:285 templates/wip/add_wip.php:23
+msgid "Create WIP and Continue"
+msgstr "Crear Public. en Desarrollo y Continuar"
+
+#: includes/bpcp-pro-functions.php:295
+msgid "Add a revision of this Work in Progress"
+msgstr "Agregar una revisión de este Publicación en Desarrollo"
+
+#: includes/bpcp-pro-functions.php:297
+msgid "Show what you're working on."
+msgstr "Muestra en qué estás trabajando."
+
+#: includes/bpcp-pro-functions.php:511 includes/bpcp-pro-widgets.php:167
+#: templates/project/index.php:14
+msgid "Projects"
+msgstr "Publicación"
+
+#: includes/bpcp-pro-functions.php:530
+msgid "All Time"
+msgstr "Todo el Tiempo"
+
+#: includes/bpcp-pro-functions.php:531
+msgid "This Past Year"
+msgstr "El Año Pasado"
+
+#: includes/bpcp-pro-functions.php:532
+msgid "This past month"
+msgstr "El Mes Pasado"
+
+#: includes/bpcp-pro-functions.php:533
+msgid "This past week"
+msgstr "La Semana Pasada"
+
+#: includes/bpcp-pro-functions.php:534
+msgid "Today"
+msgstr "Hoy"
+
+#: includes/bpcp-pro-functions.php:586
+msgid "Categories"
+msgstr "Categorías"
+
+#: includes/bpcp-pro-functions.php:626
+msgid "Following"
+msgstr "Siguiendo"
+
+#: includes/bpcp-pro-functions.php:757 includes/main-class.php:620
+msgid "Discuss this Work in Progress"
+msgstr "Discute esta Publicación en Desarrollo"
+
+#: includes/bpcp-pro-functions.php:760
+msgid "Discuss this Collection"
+msgstr "Comenta en este Curso"
+
+#: includes/bpcp-pro-functions.php:794 includes/bpcp-pro-functions.php:815
+msgid "Recent"
+msgstr "Reciente"
+
+#: includes/bpcp-pro-functions.php:795 includes/bpcp-pro-functions.php:816
+msgid "Most Commented"
+msgstr "Más Comentado"
+
+#: includes/bpcp-pro-functions.php:796 includes/bpcp-pro-functions.php:817
+msgid "Most Popular"
+msgstr "Más Popular"
+
+#: includes/bpcp-pro-functions.php:797 includes/bpcp-pro-functions.php:818
+msgid "Most Viewed"
+msgstr "Más Visto"
+
+#: includes/bpcp-pro-functions.php:827 includes/bpcp-pro-functions.php:836
+msgid "%s <span>Appreciation</span>"
+msgid_plural "%s <span>Appreciations</span>"
+msgstr[0] "%s <span>Apreciación</span>"
+msgstr[1] "%s <span>Apreciaciones</span>"
+
+#: includes/bpcp-pro-functions.php:845
+msgid "%s <span>View</span>"
+msgid_plural "%s <span>Views</span>"
+msgstr[0] "%s <span>Visto</span>"
+msgstr[1] "%s <span>Vistos</span>"
+
+#: includes/bpcp-pro-functions.php:853
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/bpcp-pro-functions.php:1156 templates/single-bb_collection.php:46
+msgid "follow"
+msgstr "seguir"
+
+#: includes/bpcp-pro-functions.php:1158 templates/collections/following.php:74
+#: templates/single-bb_collection.php:48
+msgid "unfollow"
+msgstr "dejar de seguir"
+
+#: includes/bpcp-pro-functions.php:1207
+msgid "%1$s uploaded a new work in progress, %2$s"
+msgstr "%1$s subió una nueva Publicación en Desarrollo, %2$s"
+
+#: includes/bpcp-pro-functions.php:1209
+msgid "%1$s uploaded a revision to a work in progress, %2$s"
+msgstr "%1$s cargada una revisión en tu trabajo en progreso, %2$s"
+
+#: includes/bpcp-pro-widgets.php:29
+msgid "A dynamic list of newest and popular projects"
+msgstr "Una lista dinámica de las publicaciones más nuevas y populares"
+
+#: includes/bpcp-pro-widgets.php:95 includes/bpcp-pro-widgets.php:185
+msgid "Newest"
+msgstr "Más Nuevo"
+
+#: includes/bpcp-pro-widgets.php:96 includes/bpcp-pro-widgets.php:186
+#: includes/bpcp-pro-widgets.php:406 includes/bpcp-pro-widgets.php:516
+msgid "Popular"
+msgstr "Popular"
+
+#: includes/bpcp-pro-widgets.php:134 templates/project/index.php:118
+msgid "Sorry, there were no projects found."
+msgstr "Lo sentimos, no se encontraron Publicaciones."
+
+#: includes/bpcp-pro-widgets.php:178 includes/bpcp-pro-widgets.php:320
+#: includes/bpcp-pro-widgets.php:508
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/bpcp-pro-widgets.php:180
+msgid "Max projects to show:"
+msgstr "Máximo de Publicaciones para mostrar:"
+
+#: includes/bpcp-pro-widgets.php:183
+msgid "Default projects to show:"
+msgstr "Publicaciones por defecto para mostrar:"
+
+#: includes/bpcp-pro-widgets.php:206
+msgid "A dynamic list of Work in Progress"
+msgstr "Una lista dinámica de Publicaciones en Desarrollo"
+
+#: includes/bpcp-pro-widgets.php:281 templates/wip/index.php:111
+msgid "Sorry, there were no works in progress found."
+msgstr "Lo sentimos, no se encontraron Publicaciones en Desarrollo."
+
+#: includes/bpcp-pro-widgets.php:311 templates/wip/index.php:13
+msgid "Works in Progress"
+msgstr "Trabajos en Progreso"
+
+#: includes/bpcp-pro-widgets.php:322
+msgid "Max WIP to show:"
+msgstr "Máximos Public. en Desarrollo para mostrar:"
+
+#: includes/bpcp-pro-widgets.php:339
+msgid "A dynamic list of updated and popular collections"
+msgstr "Una lista dinámica de Cursos actualizadas y populares"
+
+#: includes/bpcp-pro-widgets.php:405 includes/bpcp-pro-widgets.php:515
+msgid "Updated"
+msgstr "Actualizado"
+
+#: includes/bpcp-pro-widgets.php:447 includes/bpcp-pro-widgets.php:678
+msgid "follower"
+msgstr "seguidor"
+
+#: includes/bpcp-pro-widgets.php:447 includes/bpcp-pro-widgets.php:678
+msgid "followers"
+msgstr "seguidores"
+
+#: includes/bpcp-pro-widgets.php:464 templates/collections/index.php:99
+msgid "Sorry, there were no collections found."
+msgstr "Lo sentimos, no se encontraron Cursos."
+
+#: includes/bpcp-pro-widgets.php:510
+msgid "Max collections to show:"
+msgstr "Máximo de Cursos para mostrar:"
+
+#: includes/bpcp-pro-widgets.php:513
+msgid "Default collections to show:"
+msgstr "Cursos para mostrar por defecto:"
+
+#: includes/bpcp-pro-widgets.php:590
+msgid "There were no projects found, please try another filter."
+msgstr "No se encontraron Publicaciones, intente con otro filtro."
+
+#: includes/bpcp-pro-widgets.php:690
+msgid "There were no collections found, please try another filter."
+msgstr "No se encontraron Cursos, intente con otro filtro."
+
+#: includes/buddyboss-plugin-updater.php:29
+msgid ""
+"To receive updates for BuddyBoss products, please install and activate the "
+"plugin %s"
+msgstr ""
+"Para recibir actualizaciones de productos BuddyBoss, instale y active el "
+"complemento %s"
+
+#: includes/help-support.php:9
+msgid "Here is a video tutorial to get you started:"
+msgstr "Aquí hay un video tutorial para que comiences:"
+
+#: includes/help-support.php:17
+msgid "Need more help?"
+msgstr "¿Necesitas más ayuda?"
+
+#: includes/help-support.php:20
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+#: includes/help-support.php:21
+msgid "Current Version &amp; Release Notes"
+msgstr "Versión actual &amp; Notas de lanzamiento"
+
+#: includes/help-support.php:22
+msgid "How to Update"
+msgstr "Como actualizar"
+
+#: includes/main-class.php:185 includes/main-class.php:194
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas &#8217; ¿Ah?"
+
+#: includes/main-class.php:315
+msgid "Appreciate This"
+msgstr "Valorarlo"
+
+#: includes/main-class.php:316
+msgid "Appreciated"
+msgstr "Valorado"
+
+#: includes/main-class.php:317
+msgid "Appreciation"
+msgstr "Valoración"
+
+#: includes/main-class.php:318
+msgid "Appreciations"
+msgstr "Valoraciones"
+
+#: includes/main-class.php:320
+msgid "Views"
+msgstr "Vistos"
+
+#: includes/main-class.php:604
+msgid "Choose..."
+msgstr "Escoger..."
+
+#: includes/main-class.php:605
+msgid "Project title is missing"
+msgstr "No se encuentra el título de la Publicación"
+
+#: includes/main-class.php:606
+msgid "Project content is missing"
+msgstr "Falta contenido de la Publicación"
+
+#: includes/main-class.php:608 includes/main-class.php:616
+msgid "%s is missing"
+msgstr "%s no se encuentra"
+
+#: includes/main-class.php:609
+msgid "Please set a visibility"
+msgstr "Por favor configure una visibilidad"
+
+#: includes/main-class.php:610 templates/project/project_content.php:78
+msgid "Upload Media"
+msgstr "Subir Medios"
+
+#: includes/main-class.php:611
+msgid "Use this Media"
+msgstr "Usa este Medio"
+
+#: includes/main-class.php:612 templates/collections/index.php:70
+#: templates/project/project_content.php:40
+#: templates/project/project_content.php:63
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/main-class.php:613 templates/project/project_content.php:78
+msgid "Add More Media"
+msgstr "Agregar Más Medios"
+
+#: includes/main-class.php:614
+msgid "WIP title is missing"
+msgstr "No se encuentra el titulo del Public. en Desarrollo"
+
+#: includes/main-class.php:617
+msgid "Video embed field cannot be empty."
+msgstr "El campo de inserción de video no puede estar vacío."
+
+#: includes/main-class.php:618
+msgid "This video does now allow embedding. Please try another video."
+msgstr "Este video ahora permite la incrustación. Por favor prueba otro video."
+
+#: includes/main-class.php:619
+msgid "Collection title cannot be empty"
+msgstr "El título del Curso no puede estar vacío"
+
+#: includes/main-class.php:621 templates/project/project_content.php:37
+#: templates/project/project_content.php:60
+msgid "Caption"
+msgstr "Subtítulo"
+
+#: includes/requirements-class.php:22 includes/requirements-class.php:40
+msgid "Please first download and activate the regular plugin."
+msgstr "Primero descarga y activa el complemento normal."
+
+#: templates/collections/add_collections.php:9
+#: templates/collections/add_collections_lists.php:13
+msgid "Create a new Collection"
+msgstr "Crear un nuevo Curso"
+
+#: templates/collections/add_collections.php:13
+#: templates/collections/add_collections_lists.php:17
+#: templates/project/add_project.php:27
+msgid "Description"
+msgstr "Descripción"
+
+#: templates/collections/add_collections.php:27
+#: templates/collections/add_collections_lists.php:31
+#: templates/wip/wip_content.php:94
+msgid "My Friends"
+msgstr "Mis Amigos"
+
+#: templates/collections/add_collections_lists.php:44
+msgid "Add this project into new collection"
+msgstr "Agregar esta Publicación al nuevo Curso"
+
+#: templates/collections/add_collections_lists.php:54
+msgid "Add to existing"
+msgstr "Agregar a existente"
+
+#: templates/collections/add_collections_lists.php:80
+#: templates/project/project_content.php:109
+msgid "Save"
+msgstr "Guardar"
+
+#: templates/collections/following.php:13 templates/collections/index.php:13
+msgid "Add Collection"
+msgstr "Agregar a Curso"
+
+#: templates/collections/following.php:88
+msgid "You have not followed any collection yet."
+msgstr "No has seguido ningún Curso todavía."
+
+#: templates/collections/following.php:90
+msgid "Sorry, there were no followed collections found."
+msgstr "Lo sentimos, no se encontraron Cursos seguidos."
+
+#: templates/collections/index.php:76
+msgid "Delete Collection"
+msgstr "Eliminar Curso"
+
+#: templates/collections/index.php:95
+msgid "You have not added a collection yet."
+msgstr "Aún no has agregado un Curso."
+
+#: templates/collections/index.php:96
+msgid "Add a collection"
+msgstr "Añadir un Curso"
+
+#: templates/project/add_project.php:22 templates/wip/wip_content.php:32
+msgid "Title (required)"
+msgstr "Título (requerido)"
+
+#: templates/project/add_project.php:68
+msgid "Update Project"
+msgstr "Actualizar Publicación"
+
+#: templates/project/add_project.php:68
+msgid "Add Project and Continue"
+msgstr "Agregar Publicación y Continuar"
+
+#: templates/project/index.php:24
+msgid "Add Project"
+msgstr "Agregar Publicación"
+
+#: templates/project/index.php:114
+msgid "You have not added a project yet."
+msgstr "Aún no has agregado una Publicación."
+
+#: templates/project/index.php:115
+msgid "Add a project"
+msgstr "Agregar a la Publicación"
+
+#: templates/project/project_content.php:80
+msgid "Photo"
+msgstr "Foto"
+
+#: templates/project/project_content.php:81
+msgid "Audio"
+msgstr "Audio"
+
+#: templates/project/project_content.php:82
+msgid "Video"
+msgstr "Vídeo"
+
+#: templates/project/project_content.php:88
+#: templates/project/project_cover.php:37
+#: templates/project/project_settings.php:60 templates/wip/wip_content.php:110
+msgid "Back to Previous Step"
+msgstr "Volver al Paso Previo"
+
+#: templates/project/project_content.php:89
+#: templates/project/project_cover.php:38
+#: templates/project/project_settings.php:61 templates/wip/wip_content.php:111
+msgid "&nbsp;&nbsp;&nbsp;"
+msgstr "&nbsp;&nbsp;&nbsp;"
+
+#: templates/project/project_content.php:91
+#: templates/project/project_cover.php:39
+msgid "Next Step"
+msgstr "Próximo Paso"
+
+#: templates/project/project_content.php:97
+msgid "Add Video URL"
+msgstr "Agregar URL del Vídeo"
+
+#: templates/project/project_cover.php:27
+msgid ""
+"Upload an image to use as a cover photo for this project.<br/> The image "
+"will be shown on the main project page, and in search results."
+msgstr ""
+"Suba una imagen para usar como una foto de portada para esta Publicación.<br/"
+"> La imagen se mostrará en la página principal de la Publicación y en los "
+"resultados de búsqueda."
+
+#: templates/project/project_cover.php:29
+msgid "Library"
+msgstr "Librería"
+
+#: templates/project/project_cover.php:30
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: templates/project/project_settings.php:24 templates/wip/wip_content.php:84
+msgid "Visibility (required)"
+msgstr "Visibilidad (requerido)"
+
+#: templates/project/project_settings.php:48
+msgid "Password"
+msgstr "Contraseña"
+
+#: templates/project/project_settings.php:55
+msgid "Discussion"
+msgstr "Discusión"
+
+#: templates/project/project_settings.php:56
+msgid "Allow Comments"
+msgstr "Permitir Comentarios"
+
+#: templates/project/project_settings.php:62 templates/wip/wip_content.php:112
+msgid "Finish"
+msgstr "Terminar"
+
+#: templates/single-bb_collection.php:29
+msgid "Collection by"
+msgstr "Curso por"
+
+#: templates/single-bb_project.php:16
+msgid "Edit Project"
+msgstr "Editar Publicación"
+
+#: templates/single-bb_project.php:17 templates/single-bb_project.php:20
+msgid "Delete Project"
+msgstr "Eliminar Publicación"
+
+#: templates/single-bb_project.php:92
+msgid "Project by"
+msgstr "Publicación por"
+
+#: templates/single-bb_project.php:112
+msgid "Add to Collection"
+msgstr "Agregar al Curso"
+
+#: templates/single-bb_project.php:124 templates/single-bb_wip.php:109
+msgid "Appreciations "
+msgstr "Valoraciones "
+
+#: templates/single-bb_project.php:125 templates/single-bb_wip.php:110
+msgid "Views "
+msgstr "Vistos "
+
+#: templates/single-bb_project.php:132
+msgid "Project Tags"
+msgstr "Etiquetas de la Publicación"
+
+#: templates/single-bb_wip.php:19
+msgid "Delete Revision"
+msgstr "Eliminar Revisión"
+
+#: templates/single-bb_wip.php:21
+msgid "Delete wip"
+msgstr "Eliminar Public. en Desarrollo"
+
+#: templates/single-bb_wip.php:61
+msgid "Revision"
+msgstr "Revisión"
+
+#: templates/single-bb_wip.php:80
+msgid "WIP by"
+msgstr "Public. en Desarrollo por"
+
+#: templates/single-bb_wip.php:117
+msgid "WIP Tags"
+msgstr "Etiquetas de la Public. en Desarrollo"
+
+#: templates/wip/add_wip.php:19
+msgid "Upload Your Image"
+msgstr "Subir tu Imagen"
+
+#: templates/wip/index.php:107
+msgid "You have not added a work in progress yet."
+msgstr "Agregar Publicaciones en Desarrollo."
+
+#: templates/wip/index.php:108
+msgid "Add a work in progress"
+msgstr "Agregar a la Publicaciones en Desarrollo"
+
+#: templates/wip/wip_content.php:79
+msgid "Post a comment to start the conversation"
+msgstr "Publica un comentario para comenzar la conversación"
+
+#: includes/bpcp-pro-functions.php:1240
+msgctxt "Activity bb_wip Post Type post comment action"
+msgid "%1$s commented on the work in progress, %2$s"
+msgstr "%1$s comentó sobre la Publicaciones en Desarrollo, %2$s"
+
+#: includes/bpcp-pro-functions.php:1242
+msgctxt "Activity bb_wip Post Type post comment action"
+msgid "%1$s commented on the revision to a work in progress, %2$s"
+msgstr ""
+"%1$s comentó sobre la revisión de una Publicaciones en Desarrollo, %2$s"
+
+#: includes/bpcp-pro-widgets.php:32
+msgctxt "widget name"
+msgid "(BP Portfolio) Projects"
+msgstr "(BP Portfolio) Publicaciones"
+
+#: includes/bpcp-pro-widgets.php:209
+msgctxt "widget name"
+msgid "(BP Portfolio) Works in Progress"
+msgstr "(BP Portfolio) Publicaciones en Desarrollo"
+
+#: includes/bpcp-pro-widgets.php:342
+msgctxt "widget name"
+msgid "(BP Portfolio) Collections"
+msgstr "(BP Portfolio) Cursos"
